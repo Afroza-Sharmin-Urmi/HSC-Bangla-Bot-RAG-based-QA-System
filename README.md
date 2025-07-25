@@ -9,7 +9,7 @@ A Bangla question-answering bot that uses Retrieval-Augmented Generation (RAG) t
 ### 1. Clone Repository & Setup Environment
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Afroza-Sharmin-Urmi/HSC-Bangla-Bot-RAG-based-QA-System.git
 cd HSC_bot
 python3 -m venv rag-env
 source rag-env/bin/activate
