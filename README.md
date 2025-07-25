@@ -196,11 +196,12 @@ I clean the question and chunk text, extract relevant Bangla words, and use rege
 
 ### 6. Are the results relevant?
 
-Partially. The bot correctly answers **fact-based** questions (e.g., names, ages), but struggles with vague or abstract queries. Improvements could include:
+Partially. The bot correctly answers **fact-based** questions, but struggles with vague or abstract queries. Improvements could include:
 
 - Better chunk overlap
 - Bangla-specific embedding models
 - Named Entity Recognition for Bangla
+- Require time to train the model for better outcome
 
 ---
 
